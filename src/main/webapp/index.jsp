@@ -12,7 +12,7 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
-            background: #f3f4f6;
+            background: #f3f4f7;
             color: #333;
         }
 
